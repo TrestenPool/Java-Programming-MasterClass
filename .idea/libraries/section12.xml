@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="section12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/section12/Java-Collections-Collections-List-Methods-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section12/Java-Collections-Comparable-and-Comparator-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section12/Java-Collections-Collections-Overview-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section12/Java-Collections-Binary-Search-Source-code.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

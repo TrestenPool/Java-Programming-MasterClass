@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/section11/packages/Packages/Packages.iml" filepath="$PROJECT_DIR$/section11/packages/Packages/Packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section11/packages/WinDemo/WinDemo.iml" filepath="$PROJECT_DIR$/section11/packages/WinDemo/WinDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section10/challenge/challenge.iml" filepath="$PROJECT_DIR$/section10/challenge/challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section11/final/final.iml" filepath="$PROJECT_DIR$/section11/final/final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section10/part1/part1.iml" filepath="$PROJECT_DIR$/section10/part1/part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section12/section12.iml" filepath="$PROJECT_DIR$/section12/section12.iml" />
+    </modules>
+  </component>
+</project>
