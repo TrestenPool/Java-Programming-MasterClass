@@ -1,14 +1,14 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class SportsTeam {
+public class SportsTeam <T extends Main.Player> {
     // methods
     private String teamName;
 
     // this changed from BaseballPlayer to Player, BaseballPlayer implements Player
     // coding to an interface
     // thing is though, this is making it so that any type of player can be included in the list
-    private List<Main.Player> teamMembers = new ArrayList<>();
+    private List<T> teamMembers = new ArrayList<>();
 
     private int totalWins = 0;
     private int totalLosses = 0;
@@ -20,7 +20,7 @@ public class SportsTeam {
     }
 
     // methods
-    public void addTeamMember(Main.Player player){
+    public void addTeamMember(T player){
         // adds the team member if the player is not already in the list
         if(!teamMembers.contains(player)){
             teamMembers.add(player);
@@ -30,6 +30,7 @@ public class SportsTeam {
     public void listTeamMembers(){
         System.out.println(teamName + " Roster: ");
         System.out.println(teamMembers);
+        System.out.println();
     }
 
     public int ranking(){
