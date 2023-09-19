@@ -21,5 +21,4 @@ public class Layer <T extends Mappable> {
     }
 
 
-
 }

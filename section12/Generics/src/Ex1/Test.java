@@ -1,3 +1,5 @@
+package Ex1;
+
 public class Test <T,S,U,V>{
     private T variable1;
     private S variable2;
